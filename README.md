@@ -1,2 +1,8 @@
 # Election_Analysis
-Assissting Tom and Seth with Election Data
+
+
+## Overview of Election Audit:
+
+## Election-Audit Results:
+
+## Election-Audit Summary:
